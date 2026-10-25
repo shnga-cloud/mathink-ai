@@ -1,0 +1,9 @@
+# 忽略所有文件
+*
+
+# 只保留这几个
+!.gitignore
+!README.md
+!api.py
+!predict_chemistry.py
+!predict_math.py
