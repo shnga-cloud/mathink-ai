@@ -171,3 +171,8 @@ pip install editdistance
 pip install "numpy<2"
 
 pip install "scipy<1.13"
+
+### 九、演示
+![img_1.png](img/img_1.png)
+![img.png](img/img_0.png)
+![img_2.png](img/img_2.png)
